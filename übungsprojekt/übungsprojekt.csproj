@@ -61,6 +61,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Dokumente\Microsoft Word-Dokument %28neu%29.docx" />
+    <None Include="Dokumente\Auftrag.pdf" />
+    <None Include="Dokumente\Vorlagen\DB-Anbindung.pdf" />
+    <None Include="Dokumente\Vorlagen\Gliederung IHK.docx" />
+    <None Include="Dokumente\Vorlagen\view.php" />
+    <None Include="Dokumente\Vorlagen\Vorlage Pflichtenheft.pdf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
