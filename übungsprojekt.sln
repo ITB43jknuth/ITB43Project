@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "übungsprojekt", "übungsprojekt\übungsprojekt.csproj", "{C83A783B-B1D8-47A3-9B36-E788EF380D57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminKontakte", "TerminKontakte\TerminKontakte.csproj", "{6101E415-50C2-45A7-984A-80C0A5D1B9FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C83A783B-B1D8-47A3-9B36-E788EF380D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C83A783B-B1D8-47A3-9B36-E788EF380D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C83A783B-B1D8-47A3-9B36-E788EF380D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C83A783B-B1D8-47A3-9B36-E788EF380D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6101E415-50C2-45A7-984A-80C0A5D1B9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6101E415-50C2-45A7-984A-80C0A5D1B9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6101E415-50C2-45A7-984A-80C0A5D1B9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6101E415-50C2-45A7-984A-80C0A5D1B9FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
