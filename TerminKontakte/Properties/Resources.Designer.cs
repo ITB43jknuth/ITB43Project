@@ -61,7 +61,7 @@ namespace TerminKontakte.Properties {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Hier einen DB-Connectionstring hinzufügen! ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Provider=Microsoft.ACE.OLEDB.12.0; Data Source=H:\Documents\Visual Studio 2013\Übungsprojektdokumente\accessdb.accdb ähnelt.
         /// </summary>
         internal static string connectionString {
             get {
